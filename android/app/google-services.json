@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914179950148",
+    "project_id": "project-collegegram",
+    "storage_bucket": "project-collegegram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914179950148:android:85d08133ce66bf992f5e11",
+        "android_client_info": {
+          "package_name": "com.example.college_gram_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914179950148-m9sr1c8jp2pnndknn2qutt35r3hkqt40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXz7cCiQkyWLOV4W9cSkFXrHUq5EaJqh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914179950148-m9sr1c8jp2pnndknn2qutt35r3hkqt40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
